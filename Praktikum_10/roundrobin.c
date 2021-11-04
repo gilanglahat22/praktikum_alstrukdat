@@ -58,7 +58,6 @@ float average(List l)
 int main(void)
 {
     boolean is_inputTrue = false;
-    ElType TQ = -1;
     int N;
     List l;
     CreateList(&l);
